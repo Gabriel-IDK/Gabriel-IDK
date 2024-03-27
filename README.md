@@ -2,14 +2,14 @@
 
  <div>
    <a href="https://github.com/Gabriel-IDK">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-IDK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-IDK&layout=donut-vertical&langs_count=6&theme=radical"/>
+   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-IDK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-IDK&layout=donut-vertical&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
 <br>
